@@ -1,5 +1,5 @@
 # Writing-Portfolio
-Compilation of works to demonstrate technical writing ability.
+A compilation of works to demonstrate technical writing ability.
 
 With a passion for both STEM and creative writing, I thrive at the intersection of technical precision and rhetorical impact. Engineers often get fixated on the scientific side of report writing with a sort of myopic hyperfocus – deeply immersed in the data and specifications, yet blind to the broader communicative goals: proposing an idea, conveying progress to stakeholders, or translating complexity into actionable insight. Many engineers have attempted to combat this issue through the use of AI but, while almost sufficient, machines tend to miss the nuance of truly captivating writing, leaving the final product feeling hollow. At the end of the day, who is going to remain engaged in a piece of text that is soulless, dense with esoteric phrasing, and monotonous in tone? No one. 
 
