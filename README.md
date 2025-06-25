@@ -5,7 +5,7 @@ With a passion for both STEM and creative writing, I thrive at the intersection 
 
  
 
-I truly believe even technical work can – and should – be presented in a compelling and engaging way, and I further believe I have that unique ability. Not only through report writing aimed at fellow professionals, but through experience writing speeches for technical presentations or the production of fun public-facing infographics which seize and hold the attention of even the most unenthusiastic and non-technical audience. This ability isn’t just a superfluous boast, it’s vital to cross-functional collaboration, technical marketing, and feasibility proposal; these domains require an individual who is both well-versed in the technical detail and theory, in addition to the effective application of the English language. That’s me. 
+I truly believe even technical work can – and should – be presented in a compelling and engaging way, and I further believe I have that unique ability; not only through report writing aimed at fellow professionals, but through experience writing speeches for technical presentations and the production of fun public-facing infographics which seize and hold the attention of even the most unenthusiastic and non-technical audience. This ability isn’t just a superfluous boast, it’s vital to cross-functional collaboration, technical marketing, and feasibility proposals. These domains require an individual who is both well-versed in the technical details and theory, in addition to the effective application of the English language. That’s me. 
 
  
 
